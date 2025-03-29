@@ -14,7 +14,7 @@ A simple, custom-built HTTP server in Go. This HTTP server is a lightweight, ext
 - **Middleware**: Allows app-level and route-specific middleware for request handling.
 - **Concurrency**: Supports handling multiple concurrent connections using goroutines. Uses a custom worker pool to manage the goroutines.
 
-## How to Clone and Use
+## How to setup locally
 
 To clone and run the server locally, follow these steps:
 
